@@ -1,0 +1,27 @@
+{
+  "name": "freeling-template-simple",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ios": "react-native run-ios",
+    "iphone": "react-native run-ios --device",
+    "i8": "react-native run-ios --simulator='iPhone 8'",
+    "i8plus": "react-native run-ios --simulator='iPhone 8 Plus'",
+    "iMax": "react-native run-ios --simulator='iPhone 11 Pro Max'",
+    "android:d": "react-native run-android --device",
+    "android": "react-native run-android"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeanBarreiros/react-native-freeling-template-simple.git"
+  },
+  "keywords": ["react","native","jean","barreiros","flux","freeling"],
+  "author": "Jean Barreiros",
+  "license": "ISC",
+  "description": "",
+  "bugs": {
+    "url": "https://github.com/JeanBarreiros/react-native-freeling-template-simple/issues"
+  },
+  "homepage": "https://github.com/JeanBarreiros/react-native-freeling-template-simple"
+}
